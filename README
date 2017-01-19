@@ -6,4 +6,4 @@ RhombusLib is licensed under the GPLv2.  Contact steve@cosmodro.me for commercia
 
 To use this Lib in gradle use 
 
-compile 'com.github.serveloja:rhombuslib:1.0.2'
+compile 'com.github.serveloja:rhombuslib:1.0.3'
